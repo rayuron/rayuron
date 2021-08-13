@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rayuron
-- 👀 I’m a music producer, football freestyler
-- 🌱 I’m currently learning ML, DS
+- Hi, I’m @rayuron
+- I’m a Music Producer, Football Freestyler
 
 <!---
 rayuron/rayuron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
