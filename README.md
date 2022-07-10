@@ -7,3 +7,7 @@ Hi, I’m @rayuron
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayuron&theme=radical" />
 </a>
  -->
+ 
+<a href="https://www.credential.net/4a732615-8eac-4ec4-90ba-96682e0e2fbb">
+<img src="https://badges.images.credential.net/1553628231412105.png" alt="Google Cloud Professional Cloud Developer" title="" width="150" height="150">
+</a>
