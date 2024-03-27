@@ -11,6 +11,10 @@ Hi, I’m @rayuron
  
  # Certifications
  
+<a href="https://www.kaggle.com/rayuron/competitions">
+<img src="https://www.kaggle.com/static/images/tiers/expert.svg" alt="Kaggle Competitions Expert" title="" width="150" height="150">
+</a>
+
 <a href="https://www.credential.net/4a732615-8eac-4ec4-90ba-96682e0e2fbb">
 <img src="https://badges.images.credential.net/1553628231412105.png" alt="Google Cloud Professional Cloud Developer" title="" width="150" height="150">
 </a>
